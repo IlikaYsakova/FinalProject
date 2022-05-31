@@ -1,0 +1,14 @@
+body {
+  background-color: #0396ff;
+}
+.cardlist {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 40px;
+}
+.eachcard {
+  margin-left: 20px;
+  width: 270px !important;
+}

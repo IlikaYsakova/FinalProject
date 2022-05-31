@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "title": "Поцелуй",
+      "type": "искусство",
+      "description": "картина",
+      "price": "578994444",
+      "img1": "https://muzei-mira.com/templates/museum/images/paint/pocelui-klimt+.jpg",
+      "img2": "",
+      "img3": "",
+      "id": 4
+    },
+    {
+      "title": "Дочь советской Киргизии",
+      "type": "искусство",
+      "description": "картина",
+      "price": "8900000000",
+      "img1": "https://arthive.net/res/media/img/oy1000/work/41c/179102@2x.jpg",
+      "img2": "",
+      "img3": "",
+      "id": 5,
+      "image": "https://arthive.net/res/media/img/oy1000/work/41c/179102@2x.jpg"
+    },
+    {
+      "title": "РОЖДЕНИЕ ВЕНЕРЫ",
+      "type": "искусство",
+      "description": "картина",
+      "price": "546464646",
+      "img1": "https://radiologos.ru/wp-content/uploads/2015/06/140527%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B.-%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%91%D0%BE%D1%82%D1%82%D0%B8%D1%87%D0%B5%D0%BB%D0%BB%D0%B8-%C2%AB%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D1%8B%C2%BB.jpg",
+      "img2": "",
+      "img3": "",
+      "id": 6
+    },
+    {
+      "title": "Пруд с кувшинками",
+      "type": "искусство",
+      "description": "картина",
+      "price": "564748000",
+      "img1": "https://muzei-mira.com/templates/museum/images/paint/prud-s-kuvshinkami-mone+.jpg",
+      "img2": "",
+      "img3": "",
+      "id": 7
+    }
+  ]
+}
